@@ -16,7 +16,7 @@ ytb_snake_js requires [Node.js](https://nodejs.org/) v12+ to run.
 Install the dependencies and start the server.
 
 ```sh
-cd ytb_snake_js 
+cd Snake-Game 
 npm i
 npm start
 ```
