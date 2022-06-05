@@ -4,7 +4,7 @@ import http from 'http';
 import { Server } from 'socket.io';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import lobby from '../scripts/lobby.mjs';
+import lobby from '../multiplayer/scripts/lobby.mjs.js';
 
 const app = express();
 const httpServer = http.Server(app);
